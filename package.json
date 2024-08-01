@@ -13,6 +13,7 @@
     "url": "https://www.unity3d.com"
   },
   "dependencies": {
-    "com.mountaintigercoding.unitycommon": "https://github.com/MountainTigerCoding/Unity-Common.git"
+    "com.mountaintigercoding.unitycommon": "https://github.com/MountainTigerCoding/Unity-Common.git",
+    "com.unity.mathematics": ""
   }
 }
