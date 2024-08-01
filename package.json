@@ -14,6 +14,6 @@
   },
   "dependencies": {
     "com.mountaintigercoding.unitycommon": "https://github.com/MountainTigerCoding/Unity-Common.git",
-    "com.unity.mathematics": "14.0.11"
+    "com.unity.mathematics": "1.2.6"
   }
 }
