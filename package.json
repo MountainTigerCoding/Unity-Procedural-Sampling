@@ -2,7 +2,7 @@
   "name": "com.mountaintigercoding.unityprocedualsampling",
   "version": "0.0.1",
   "displayName": "MT Procedural Sampling",
-  "description": "This is a package library used to procedually sample noise, generate animation curves and much more!",
+  "description": "This is a package library used to procedually sample noise, generate animation curves and much more!\n Requires \"com.mountaintigercoding.unitycommon\": \"https://github.com/MountainTigerCoding/Unity-Common.git\" to be added to the package.manifest file",
   "documentationUrl": "https://example.com/",
   "changelogUrl": "https://example.com/changelog.html",
   "licensesUrl": "https://example.com/licensing.html",
@@ -13,7 +13,6 @@
     "url": "https://www.unity3d.com"
   },
   "dependencies": {
-    "com.mountaintigercoding.unitycommon": "https://github.com/MountainTigerCoding/Unity-Common.git",
     "com.unity.mathematics": "1.2.6"
   }
 }
