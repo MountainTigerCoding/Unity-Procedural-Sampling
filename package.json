@@ -12,4 +12,7 @@
     "email": "shaanmonis@gmail.com",
     "url": "https://www.unity3d.com"
   }
+  "dependancies" {
+    "com.mountaintigercoding.unitycommon": "https://github.com/MountainTigerCoding/Unity-Common.git"
+  }
 }
